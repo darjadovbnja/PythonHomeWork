@@ -2,7 +2,7 @@ Added "Merge With…" context menu to merge a branch with flags (--squash, --no-
 Edit Commit: Added Move Commit Up
 Edit Commit: Added Move Commit Down
 Edit Commit: Added Drop Commit
-Commit context menu tweaks
+Commit 11111111 menu tweaks
 Location Bar: Refs are sorted via natural sorting, making numeric refs sort as expected
 Make tag message optional for git flow finish command
 Add git_env preference, to set the env vars git is launched with
